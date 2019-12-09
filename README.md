@@ -1,8 +1,7 @@
 # Simple Todo List API
 
-```
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-```
+
 
 Simple Todo list API written in Node.js. Based on this [example](https://codeburst.io/node-js-by-example-part-1-668376cd4f96).
 
